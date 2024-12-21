@@ -1,126 +1,106 @@
 {
- "basics": {
-    "name": "Toufik BOUAKIL",
-    "label": "Consultant Informatica",
-    "image": "me_avatar.jpg",
-    "email": "toufik.bouakil@example.com",
-    "phone": "+33 6 12 34 56 78",
-    "url": "https://toufikbouakil.dev",
-    "summary": "Consultant Informatica avec plus de 8 ans d'expérience dans la gestion des données et le développement des solutions décisionnelles.",
+  "basics": {
+    "name": "John Doe",
+    "label": "Junior Full Stack Developer",
+    "image": "/me_avatar.jpg",
+    "email": "john.doe@example.com",
+    "phone": "+1 555-555-5555",
+    "url": "https://johndoe.dev",
+    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "75001",
-      "city": "Paris",
-      "countryCode": "FR",
-      "region": "Île-de-France"
+      "postalCode": "10001",
+      "city": "Auckland",
+      "countryCode": "NZ",
+      "region": "New Zealand"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "toufik-bouakil",
-        "url": "https://linkedin.com/in/toufik-bouakil"
+        "username": "john-doe",
+        "url": "https://linkedin.com/in/john-doe"
+      },
+      {
+        "network": "X",
+        "username": "john-doe",
+        "url": "https://x.com/john-doe"
       },
       {
         "network": "GitHub",
-        "username": "tbouakil",
-        "url": "https://github.com/tbouakil"
+        "username": "johndoe",
+        "url": "https://github.com/johndoe"
       }
     ]
   },
   "work": [
     {
-      "name": "Manutan France",
-      "position": "Consultant Informatica MDM",
+      "name": "Tech Startup",
+      "position": "Junior Web Developer",
       "location_type": "On site",
-      "location": "Paris, France",
-      "url": "https://manutan.com",
-      "startDate": "2022-01-01",
+      "location": "Auckland, New Zealand",
+      "url": "https://techstartup.com",
+      "startDate": "2024-01-01",
       "endDate": null,
-      "summary": "Mise en place d'un référentiel client et optimisation des processus de gestion des données.",
+      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
       "highlights": [
-        "Analyse des besoins et rédaction des spécifications techniques.",
-        "Implémentation des mappings et workflows dans Informatica IDQ.",
-        "Développement des processus ETL et des solutions MDM."
+        "Improved website performance by optimizing code"
       ],
-       "Responsabilités": [
-        "Conception de modèles de données.",
-        "Développement des flux d'intégration de données.",
-        "Maintenance corrective et évolutive."
+      "responsibilities": [
+        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
+        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Participated in code reviews and contributed to improving coding standards within the team."
       ],
-      "skills": ["Informatica MDM", "SQL", "Informatica Data Quality", "Shell", " Modélisation"]
+      "achievements": [
+        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+      ],
+      "skills": [
+        "React",
+        "Tailwind",
+        "GitHub"
+      ]
     },
     {
-      "name": "MAAF",
-      "position": "Consultant Informatica PowerCenter",
+      "name": "Innovative Solutions",
+      "position": "Junior Software Developer",
       "location_type": "Hybrid",
-      "location": "Niort, France",
-      "url": "https://maaf.fr",
-      "startDate": "2019-11-01",
-      "endDate": "2021-11-01",
-      "summary": "Support et maintenance corrective des flux ETL sous Informatica.",
+      "location": "Wellington, New Zealand",
+      "url": "https://innovativesolutions.com",
+      "startDate": "2022-06-01",
+      "endDate": "2023-06-01",
+      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
       "highlights": [
-        "Création et optimisation de workflows ETL.",
-        "Réalisation des tableaux de bord et rapports avec Power BI.",
-        "Support aux équipes métiers pour la gestion des incidents."
+        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
-      "Responsabilités": [
-        "Analyse et qualification des données avec l’équipe métier",
-        "Développement des mappings et workflows sur Informatica",
-        "Gestion des rejets fonctionnels et techniques sous Informatica",
-        "Développement de Scripts SQL pour l’extraction des données",
-        "Développement et optimisation des procédures stockées T-SQL",
-        "Réalisation des tests unitaires et d’intégration",
-        "Assistance à l’équipe de recette et correction d’anomalies",
-        "Création des tableaux de bord et des rapports sous Power BI",
-        "Gestion des incidents sous Jira",
-        "Assistance aux équipes métier sur la gestion d’incidents",
-        "Assistance à la mise en production",
-        "Maintenance corrective et évolutive"
+      "responsibilities": [
+        "Developed and maintained backend services using Python and Django.",
+        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
+        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
       ],
-      
       "achievements": [
         "Successfully implemented a feature that enhanced user authentication, improving security measures."
       ],
       "skills": [
-        "Informatica PowerCenter",
-        "Power BI", 
-       "SHELL", "PL/SQL","SQL", "Jira", "Git"
-        
+        "Python",
+        "Django",
+        "SQL",
+        "Git"
       ]
     },
     {
-     
-      "name": "Servair",
-      "position": "Consultant Informatica PowerCenter",
-      "location_type": "On site",
-      "location": "Roissy, France",
-      "url": "https://servair.fr",
-      "startDate": "2017-08-01",
-      "endDate": "2019-11-01",
-      "summary": "Maintenance et évolution d'applications décisionnelles pour le suivi des ventes à bord.",
+      "name": "Web Agency",
+      "position": "Intern Web Developer",
+      "location_type": "Remote",
+      "location": "Sydney, Australia",
+      "startDate": "2022-06-01",
+      "endDate": "2022-12-01",
+      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": [
-        "Développement et optimisation de processus ETL.",
-        "Création de rapports et tableaux de bord dans SAP BO.",
-        "Automatisation des processus via des scripts Shell."
+        "Completed several client projects successfully"
       ],
       "skills": [
         "HTML",
-        "CSS",
-        "SQL",
-        "SHELL",
-        "PL SQL",
-        "XML",
-        "Informatica v10",
-        "SAP BO 4.2",
-        "PowerAMC",
-        "Squash",
-        "Postman",
-        "Notepad++",
-        "ServiceNow",
-        "Filezilla",
-        "Oracle",
-        "SQL Server"
+        "CSS"
       ]
     }
   ],
@@ -339,55 +319,46 @@
   ],
   "projects": [
     {
-      "name": "MANUTAN FRANCE",
-      "isActive": true,
-      "description": "Mise en place d'un référentiel client 360 en intégrant des données multi-sources via MDM et IDQ pour garantir fiabilité et cohérence",
+      "name": "Personal Portfolio",
+      "isActive": false,
+      "description": "A personal portfolio website to showcase my projects and skills.",
       "highlights": [
-  
-        "Profiling des nouvelles sources de données et définition des règles de qualité des données",
-        "Conception et implémentation du nouveau référentiel de données sous MDM Hub (modèle de données, batch group, packages, queries, data manager)",
-        "Mise en œuvre des flux d'intégration de données, y compris les processus de nettoyage",
-        "Configuration de l'interface C360 depuis le Provisioning Tool pour les Data Stewards"
+        "Built with React and Tailwind CSS",
+        "Includes a blog and contact form"
       ],
-      "url": "https://www.manutan.com/fr/accueil"
-      
+      "url": "https://johndoe.dev",
+      "github": "https://github.com"
     },
     {
-      "name": "SERVAIR",
+      "name": "Weather App",
       "isActive": true,
-      "description": "Maintenance corrective et évolutive d'une application décisionnelle pour le suivi des ventes à bord :",
+      "description": "A web application that provides weather information for any location.",
       "highlights": [
-        "Rédaction des spécifications Techniques Détaillées",
-        "Développement et optimisation des mappings et workflows sur Informatica Pwc",
-        "Développement de Scripts SQL pour l’extraction des données",
-        "Développement des scripts Shell pour lancement et ordonnancement des Workflows"
+        "Built with JavaScript and OpenWeatherMap API",
+        "Responsive design"
       ],
-      "url": "https://www.servair.fr/"
+      "url": "https://weatherapp.com"
     },
     {
-      "name": "MAAF",
+      "name": "Task Manager",
       "isActive": true,
-      "description": "Maintenance corrective et évolutive des flux ETL Informatica",
+      "description": "A simple task management app to keep track of daily tasks.",
       "highlights": [
-        "Développement des mappings et workflows sur Informatica",
-        "Gestion des rejets fonctionnels et techniques sous Informatica",
-        "Développement de Scripts SQL pour l’extraction des données",
-        "Développement et optimisation des procédures stockées T-SQL"
+        "Built with Node.js and MongoDB",
+        "User authentication and CRUD operations"
       ],
-      "url": "https://www.maaf.fr/fr/"
-      
+      "url": "https://taskmanager.com",
+      "github": "https://github.com"
     },
     {
-      "name": "REXEL FRANCE",
-      "isActive": true,
-      "description": "Migration des données vers SAGE ERP X3",
+      "name": "E-commerce Site",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
       "highlights": [
-        "Rédaction des spécifications Techniques Détaillées",
-        "Réalisation des interfaces d’Intégrations de données via l’ETL INFORMATICA PWC",
-        "Développement de Scripts SQL pour l’extraction des données",
-        "Développement et optimisation des procédures stockées PL SQL"
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
       ],
-      "url": "https://www.rexel.fr/frx/"
+      "url": "https://ecommerdddce.com"
     }
   ]
 }
