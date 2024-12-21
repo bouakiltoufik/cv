@@ -1,0 +1,393 @@
+{
+ "basics": {
+    "name": "Toufik BOUAKIL",
+    "label": "Consultant Informatica",
+    "image": "/me_avatar.jpg",
+    "email": "toufik.bouakil@example.com",
+    "phone": "+33 6 12 34 56 78",
+    "url": "https://toufikbouakil.dev",
+    "summary": "Consultant Informatica avec plus de 8 ans d'expérience dans la gestion des données et le développement des solutions décisionnelles.",
+    "theme": "blue",
+    "location": {
+      "address": "",
+      "postalCode": "75001",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Île-de-France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "toufik-bouakil",
+        "url": "https://linkedin.com/in/toufik-bouakil"
+      },
+      {
+        "network": "GitHub",
+        "username": "tbouakil",
+        "url": "https://github.com/tbouakil"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Manutan France",
+      "position": "Consultant Informatica MDM",
+      "location_type": "On site",
+      "location": "Paris, France",
+      "url": "https://manutan.com",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "summary": "Mise en place d'un référentiel client et optimisation des processus de gestion des données.",
+      "highlights": [
+        "Analyse des besoins et rédaction des spécifications techniques.",
+        "Implémentation des mappings et workflows dans Informatica IDQ.",
+        "Développement des processus ETL et des solutions MDM."
+      ],
+       "Responsabilités": [
+        "Conception de modèles de données.",
+        "Développement des flux d'intégration de données.",
+        "Maintenance corrective et évolutive."
+      ],
+      "skills": ["Informatica MDM", "SQL", "Informatica Data Quality", "Shell", " Modélisation"]
+    },
+    {
+      "name": "MAAF",
+      "position": "Consultant Informatica PowerCenter",
+      "location_type": "Hybrid",
+      "location": "Niort, France",
+      "url": "https://maaf.fr",
+      "startDate": "2019-11-01",
+      "endDate": "2021-11-01",
+      "summary": "Support et maintenance corrective des flux ETL sous Informatica.",
+      "highlights": [
+        "Création et optimisation de workflows ETL.",
+        "Réalisation des tableaux de bord et rapports avec Power BI.",
+        "Support aux équipes métiers pour la gestion des incidents."
+      ],
+      "Responsabilités": [
+        "Analyse et qualification des données avec l’équipe métier",
+        "Développement des mappings et workflows sur Informatica",
+        "Gestion des rejets fonctionnels et techniques sous Informatica",
+        "Développement de Scripts SQL pour l’extraction des données",
+        "Développement et optimisation des procédures stockées T-SQL",
+        "Réalisation des tests unitaires et d’intégration",
+        "Assistance à l’équipe de recette et correction d’anomalies",
+        "Création des tableaux de bord et des rapports sous Power BI",
+        "Gestion des incidents sous Jira",
+        "Assistance aux équipes métier sur la gestion d’incidents",
+        "Assistance à la mise en production",
+        "Maintenance corrective et évolutive"
+      ],
+      
+      "achievements": [
+        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+      ],
+      "skills": [
+        "Informatica PowerCenter",
+        "Power BI", 
+       "SHELL", "PL/SQL","SQL", "Jira", "Git"
+        
+      ]
+    },
+    {
+     
+      "name": "Servair",
+      "position": "Consultant Informatica PowerCenter",
+      "location_type": "On site",
+      "location": "Roissy, France",
+      "url": "https://servair.fr",
+      "startDate": "2017-08-01",
+      "endDate": "2019-11-01",
+      "summary": "Maintenance et évolution d'applications décisionnelles pour le suivi des ventes à bord.",
+      "highlights": [
+        "Développement et optimisation de processus ETL.",
+        "Création de rapports et tableaux de bord dans SAP BO.",
+        "Automatisation des processus via des scripts Shell."
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "SQL",
+        "SHELL",
+        "PL SQL",
+        "XML",
+        "Informatica v10",
+        "SAP BO 4.2",
+        "PowerAMC",
+        "Squash",
+        "Postman",
+        "Notepad++",
+        "ServiceNow",
+        "Filezilla",
+        "Oracle",
+        "SQL Server"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "State University",
+      "url": "https://stateuniversity.edu",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2018-09-01",
+      "endDate": "2022-05-01",
+      "score": "3.8",
+      "courses": [
+        "CS101 - Introduction to Computer Science",
+        "CS102 - Data Structures"
+      ]
+    },
+    {
+      "institution": "Tech Institute",
+      "url": "https://techinstitute.edu",
+      "area": "Software Engineering",
+      "studyType": "Master",
+      "startDate": "2020-09-01",
+      "endDate": "2022-12-01",
+      "score": "3.9",
+      "courses": [
+        "SE201 - Advanced Software Development",
+        "SE202 - Software Architecture and Design"
+      ]
+    },
+    {
+      "institution": "City College",
+      "url": "https://citycollege.edu",
+      "area": "Information Technology",
+      "studyType": "Associate Degree",
+      "startDate": "2017-01-01",
+      "endDate": "2019-12-01",
+      "score": "3.7",
+      "courses": [
+        "IT101 - Networking Fundamentals",
+        "IT102 - Database Management Systems"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Full Stack Web Development",
+      "date": "2023-05-01",
+      "issuer": "Online University",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MANUTAN FRANCE",
+      "isActive": true,
+      "description": "Mise en place d'un référentiel client 360 en intégrant des données multi-sources via MDM et IDQ pour garantir fiabilité et cohérence",
+      "highlights": [
+  
+        "Profiling des nouvelles sources de données et définition des règles de qualité des données",
+        "Conception et implémentation du nouveau référentiel de données sous MDM Hub (modèle de données, batch group, packages, queries, data manager)",
+        "Mise en œuvre des flux d'intégration de données, y compris les processus de nettoyage",
+        "Configuration de l'interface C360 depuis le Provisioning Tool pour les Data Stewards"
+      ],
+      "url": "https://www.manutan.com/fr/accueil"
+      
+    },
+    {
+      "name": "SERVAIR",
+      "isActive": true,
+      "description": "Maintenance corrective et évolutive d'une application décisionnelle pour le suivi des ventes à bord :",
+      "highlights": [
+        "Rédaction des spécifications Techniques Détaillées",
+        "Développement et optimisation des mappings et workflows sur Informatica Pwc",
+        "Développement de Scripts SQL pour l’extraction des données",
+        "Développement des scripts Shell pour lancement et ordonnancement des Workflows"
+      ],
+      "url": "https://www.servair.fr/"
+    },
+    {
+      "name": "MAAF",
+      "isActive": true,
+      "description": "Maintenance corrective et évolutive des flux ETL Informatica",
+      "highlights": [
+        "Développement des mappings et workflows sur Informatica",
+        "Gestion des rejets fonctionnels et techniques sous Informatica",
+        "Développement de Scripts SQL pour l’extraction des données",
+        "Développement et optimisation des procédures stockées T-SQL"
+      ],
+      "url": "https://www.maaf.fr/fr/"
+      
+    },
+    {
+      "name": "REXEL FRANCE",
+      "isActive": true,
+      "description": "Migration des données vers SAGE ERP X3",
+      "highlights": [
+        "Rédaction des spécifications Techniques Détaillées",
+        "Réalisation des interfaces d’Intégrations de données via l’ETL INFORMATICA PWC",
+        "Développement de Scripts SQL pour l’extraction des données",
+        "Développement et optimisation des procédures stockées PL SQL"
+      ],
+      "url": "https://www.rexel.fr/frx/"
+    }
+  ]
+}
