@@ -2,12 +2,12 @@
  "basics": {
     "name": "Toufik BOUAKIL",
     "label": "Consultant Informatica",
-    "image": "/me_avatar.jpg",
+    "image": "me_avatar.jpg",
     "email": "toufik.bouakil@example.com",
     "phone": "+33 6 12 34 56 78",
     "url": "https://toufikbouakil.dev",
     "summary": "Consultant Informatica avec plus de 8 ans d'expérience dans la gestion des données et le développement des solutions décisionnelles.",
-    "theme": "blue",
+    "theme": "default",
     "location": {
       "address": "",
       "postalCode": "75001",
