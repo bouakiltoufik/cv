@@ -4,60 +4,74 @@
     "label": "Consultant Informatica",
     "image": "me_avatar.jpg",
     "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "Résumé": "Curieux et engagé, je suis développeur data spécialisé en outils Informatica tels que PowerCenter, IDQ, MDM et IDMC. Mon expertise en ETL me permet de concevoir des solutions sur mesure, adaptées aux besoins stratégiques des entreprises.",
     "theme": "default",
     "location": {
       "address": "",
       "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Île-de-France"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "Toufik BOUAKIL",
+        "url": "https://linkedin.com/in/Toufik Bouakil"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "Toufik Bouakil",
+        "url": "https://x.com/Toufik Bouakil"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
+        "username": "Toufik Bouakil",
         "url": "https://github.com/johndoe"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
+      "name": "Manutan France",
+      "position": "Consultant Informatica MDM",
+      "location_type": "Teletravail ",
+      "location": "Gonesse, Île-de-France",
+      "url": "https://www.manutan.fr",
       "startDate": "2024-01-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "Résumé": " Mise en place d'un référentiel client : Intégration de données provenant de multiples systèmes sources pour fournir des informations fiables et cohérentes sur Customer 360, en utilisant le MDM et Informatica Data Quality (IDQ).",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Profiling des nouvelles sources de données et définition des règles de qualité",
+        "Conception et implémentation du référentiel de données sous MDM Hub",
+        "Configuration de l'interface C360 et développement de mappings et workflows IDQ"
       ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+      "Tâches": [
+        "Analyse des besoins clients pour élaborer les spécifications fonctionnelles et techniques",
+        "Profiling des nouvelles sources de données et définition des règles de qualité des données",
+        "Conception et implémentation du nouveau référentiel de données sous MDM Hub (modèle de données, batch group, packages, queries, data manager)",
+        "Mise en œuvre des flux d'intégration de données, y compris les processus de nettoyage",
+        "Configuration de l'interface C360 depuis le Provisioning Tool pour les Data Stewards",
+        "Développement et optimisation des mappings et workflows IDQ",
+        "Rédaction de scripts SQL pour l’extraction des données",
+        "Réalisation des tests unitaires, tests d’intégration et tests de non-régression",
+        "Assistance à l’équipe de recette et correction des anomalies durant la phase de recette",
+        "Préparation de livrables pour la mise en production",
+        "Mise en production des solutions développées",
+        "Documentation des processus et des règles techniques appliquées",
+        "Maintenance corrective et évolutive du système"
       ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+      "Environnement": [
+        "Windows, linux ,SQL, SHELL SGBD : SQL Server, Oracle 19  Outils : Informatica Data Quality v10.5, Informatica MDM v10.4, Customer 360, Jira, Git, Filezilla, SoapUI ."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Informatica Data Quality ",
+        "Informatica MDM ",
+        "Customer 360",
+        "SQL",
+        "Shell",
+        "Jira"
       ]
     },
     {
@@ -68,16 +82,16 @@
       "url": "https://innovativesolutions.com",
       "startDate": "2022-06-01",
       "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "Résumé": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
-      "responsibilities": [
+      "Tâches": [
         "Developed and maintained backend services using Python and Django.",
         "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
         "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
       ],
-      "achievements": [
+      "Environnement": [
         "Successfully implemented a feature that enhanced user authentication, improving security measures."
       ],
       "skills": [
@@ -94,7 +108,7 @@
       "location": "Sydney, Australia",
       "startDate": "2022-06-01",
       "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "Résumé": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": [
         "Completed several client projects successfully"
       ],
@@ -111,7 +125,7 @@
       "url": "https://codingclub.com/",
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "Résumé": "Helped organize coding workshops and mentored new members.",
       "highlights": [
         "Awarded 'Volunteer of the Month'"
       ]
