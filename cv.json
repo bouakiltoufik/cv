@@ -40,8 +40,8 @@
       "location_type": "Teletravail ",
       "location": "Gonesse, Île-de-France",
       "url": "https://www.manutan.fr",
-      "startDate": "2024-01-01",
-      "endDate": null,
+      "startDate": "2022-01-01",
+      "endDate": "2024-06-01",
       "Résumé": " Mise en place d'un référentiel client : Intégration de données provenant de multiples systèmes sources pour fournir des informations fiables et cohérentes sur Customer 360, en utilisant le MDM et Informatica Data Quality (IDQ).",
       "highlights": [
         "Profiling des nouvelles sources de données et définition des règles de qualité",
