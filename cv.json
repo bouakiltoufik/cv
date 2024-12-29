@@ -4,6 +4,7 @@
     "label": "Consultant Informatica",
     "image": "me_avatar.jpg",
     "email": "john.doe@example.com",
+    "phone": "+1 555-555-5555",
     "url": "https://johndoe.dev",
     "Résumé": "Curieux et engagé, je suis développeur data spécialisé en outils Informatica tels que PowerCenter, IDQ, MDM et IDMC. Mon expertise en ETL me permet de concevoir des solutions sur mesure, adaptées aux besoins stratégiques des entreprises.",
     "theme": "default",
