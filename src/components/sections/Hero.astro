@@ -16,13 +16,13 @@ const SOCIAL_ICONS: SocialIcon = {
 	GitHub,
 	LinkedIn,
 	X,
-	Phone,
+	
 };
 
 const linkedInfo = profiles.find(({ network }) => network === "LinkedIn");
 const linkedUrl = linkedInfo?.url;
 
-const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
+const printInfo = [email, linkedUrl].filter(Boolean).join(" • ");
 ---
 
 <Section>
